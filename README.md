@@ -1,2 +1,2 @@
 # Assembly
-A Robust Bi-directional Algorithm for Sorting Written in Assembly 
+A robust bi-directional algorithm for sorting written in Assembly 
